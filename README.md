@@ -1,7 +1,7 @@
 
 ## Hey 👋, I'm Yuan!
 
-I'm Kim Yuan, Frontend-Developer :)
+I'm Yuan Kim, Frontend-Developer :)
 
 ### My Skill Stack
 <p>
